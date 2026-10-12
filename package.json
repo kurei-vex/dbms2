@@ -1,0 +1,17 @@
+{
+  "name": "dbms2",
+  "version": "1.0.0",
+  "description": "Oracle SQL*Plus 19c Native Web Terminal Replica",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "oracle",
+    "sqlplus",
+    "terminal",
+    "dbms"
+  ],
+  "author": "",
+  "license": "ISC"
+}
